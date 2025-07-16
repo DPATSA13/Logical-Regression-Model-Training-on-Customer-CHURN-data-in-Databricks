@@ -1,0 +1,2 @@
+# Logical-Regression-Model-Training-on-Customer-CHURN-data-in-Databricks
+This project demonstrates the complete end-to-end machine learning pipeline for predicting customer churn in a telecom domain using a combination of Apache Spark (via Databricks) and Scikit-learn. It highlights data engineering, data science, and MLOps best practices, leveraging both big data tools and local interpretability libraries
